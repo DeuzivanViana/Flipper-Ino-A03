@@ -1,7 +1,4 @@
 # Flipper-Ino-A03 - 0.0.2b
-
-## Support Me At
-- `bitcoin`: bc1q0dl24vs9w3rkpwplc9wwlhh0qpglu26esw3mrq
   
 ## What is it?
 A firmware to simulate gadget cybersecurity; it's only for study purposes, but you can do real functions using modules like BMP280 with it.
